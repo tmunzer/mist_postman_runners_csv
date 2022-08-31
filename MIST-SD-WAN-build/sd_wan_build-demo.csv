@@ -1,0 +1,6 @@
+site_name,site_type,lat,lng,time_zone,country_code,site_address,root_password,srx_claim_code,srx_name,wan0_ip,wan0_gw,wan1_ip,wan1_gw,ex_claim_code,ex_name,ap_claim_code,ap_name
+Hub,hub,59.913869,10.752245,Europe/Oslo,NO,"Oslo, Norway",Juniper123,,,172.29.129.99/24,172.29.129.254,,,,,,
+Spoke-1,spoke,52.520007,13.404954,Europe/Berlin,DE,"Berlin, Germany",Juniper123,,,dhcp,,20.200.0.99/24,20.200.0.254,,,,
+Spoke-2,spoke,48.856093,2.293046,Europe/Paris,FR,"Paris, France",Juniper123,,,dhcp,,dhcp,,,,,
+Spoke-3,spoke,,,,,,Pass123,,,dhcp,,dhcp,,,,,
+Spoke-X,spoke,,,,,,Juniper123,,,dhcp,,dhcp,,,,,
